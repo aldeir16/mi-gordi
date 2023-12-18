@@ -1,0 +1,2 @@
+# mi-gordi
+detalle
